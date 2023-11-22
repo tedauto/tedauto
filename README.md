@@ -1,5 +1,5 @@
 # Hi there 👋
-I am **Teddy Mutinge**🙂. I like doing data analysis and visualization. I enjoy creating visually appealing **dashboards** that communicate the important insights to a non-technical audience.
+I am **Teddy Mutinge**🙂. I love doing data analysis and visualization. I enjoy creating visually appealing **dashboards** that communicate the insights to a non-technical audience.
 
 🔭 I’m currently working on polishing my SQL skills.
 
@@ -10,10 +10,10 @@ I am **Teddy Mutinge**🙂. I like doing data analysis and visualization. I enjo
 * Data Visualization
   
 ## Tools and technnologies
-* SQL(Joins,Subquerries)
-* Microsoft Excel(Pivot tables,Conditional formatting)
+* SQL(Joins, Subquerries)
+* Microsoft Excel(Pivot tables, Conditional formatting, Vlookup)
 * R(tidyverse,ggplot2)
-* Python(Numpy,Pandas,Seaborn)
+* Python(Numpy, Pandas, Seaborn)
 * Tableau
 * SPSS
 
