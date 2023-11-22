@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+I am Teddy Mutinge.I enjoy doing data analysis and visualization. I enjoy creating visually appealing dashboards that communicate the important insights to a non-technical audience.
+
+Tools and technnologies
+* SQL
+* R
+* Python
+* Tableau
+* SPSS
 
 <!--
 **tedauto/tedauto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
