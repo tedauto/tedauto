@@ -1,5 +1,5 @@
 # Hi there 👋
-I am **Teddy Mutinge**.I enjoy doing data analysis and visualization. I enjoy creating visually appealing **dashboards** that communicate the important insights to a non-technical audience.
+I am **Teddy Mutinge**. I enjoy doing data analysis and visualization. I enjoy creating visually appealing **dashboards** that communicate the important insights to a non-technical audience.
 
 🔭 I’m currently working on polishing my SQL skills.
 
