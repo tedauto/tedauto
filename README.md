@@ -1,6 +1,6 @@
 # Hi there 👋
-I am **Teddy Mutinge**🙂. I am passionate about data analysis and visualization. I enjoy creating visually appealing **dashboards** that communicate the insights to a non-technical audience.
-
+I am **Teddy Mutinge** 🙂. I am passionate about data analysis and visualization. I enjoy creating visually appealing **dashboards** that communicate the insights to a non-technical audience.
+ 
 🔭 I’m currently working on polishing my SQL skills.
 
 ## Skills
