@@ -17,6 +17,8 @@ I am **Teddy Mutinge** 🙂. I am passionate about data analysis and visualizati
 * Tableau
 * SPSS
 
+💬 [Lets connect!!](https://www.linkedin.com/in/teddy-mutinge-534965190/)
+
 📫 You can reach via gmail @teddy254mutinge@gmail.com.
 <!--
 **tedauto/tedauto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
