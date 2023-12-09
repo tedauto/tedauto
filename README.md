@@ -10,7 +10,7 @@ I am **Teddy Mutinge** 🙂. I am passionate about data analysis and visualizati
 * Data Visualization
   
 ## Tools and technnologies
-* SQL(Joins, Subquerries)
+* SQL(Joins, Subquerries, Window functions)
 * Microsoft Excel(Pivot tables, Conditional formatting, Vlookup)
 * R(Tidyverse, ggplot2)
 * Python(Numpy, Pandas, Seaborn)
