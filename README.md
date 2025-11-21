@@ -1,21 +1,8 @@
-# Hi there 👋
-I am **Teddy Mutinge** 🙂. I am passionate about data analysis and visualization. I enjoy creating visually appealing **dashboards** that communicate the insights to stakeholders.
+# **Hi there my name Teddy Mutinge**👋 
 
-## Skills
-* Data Cleaning and Preprocessing
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Visualization
-  
-## Tools and technnologies
-* SQL(Joins, Subquerries, Window functions)
-* Microsoft Excel(Pivot tables, Conditional formatting, Vlookup)
-* R(Tidyverse, ggplot2)
-* Python(Numpy, Pandas, Seaborn)
-* Tableau
-* SPSS
+# My ultimate goal is to help organisations and business connect analytical insights directly to tangible outcomes without compromising on data quality and integrity.
 
-💬 [Lets connect!!](https://www.linkedin.com/in/teddy-mutinge-534965190/)
+💬 [Lets connect on Linkedin!!] ➡︎ (https://www.linkedin.com/in/teddy-mutinge-534965190/)
 
 📫 You can reach via gmail @teddy254mutinge@gmail.com.
 <!--
