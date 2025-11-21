@@ -1,6 +1,6 @@
-# **Hi there my name Teddy Mutinge**👋 
+### **Hi there my name Teddy Mutinge**👋 
 
-# My ultimate goal is to help organisations and business connect analytical insights directly to tangible outcomes without compromising on data quality and integrity.
+My ultimate goal is to help organisations and business connect analytical insights directly to tangible outcomes without compromising on data quality and integrity.
 
 💬 [Lets connect on Linkedin!!] ➡︎ (https://www.linkedin.com/in/teddy-mutinge-534965190/)
 
