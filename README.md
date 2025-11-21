@@ -1,10 +1,10 @@
-### **Hi there my name Teddy Mutinge**👋 
+**Hi, my name Teddy Mutinge**👋 
 
 My ultimate goal is to help organisations and business connect analytical insights directly to tangible outcomes without compromising on data quality and integrity.
 
-💬 [Lets connect on Linkedin!!] ➡︎ (https://www.linkedin.com/in/teddy-mutinge-534965190/)
+💬 Lets connect on Linkedin ➡︎ [@teddy-mutinge](https://www.linkedin.com/in/teddy-mutinge-534965190/)
 
-📫 You can reach via gmail @teddy254mutinge@gmail.com.
+
 <!--
 **tedauto/tedauto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
